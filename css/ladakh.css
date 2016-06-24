@@ -1,3 +1,4 @@
+
 .wrap
 {
   overflow: hidden;
@@ -7,14 +8,79 @@
   opacity: 0.9;
   width: 100%;
   }
-ul li
+.meta li
   {
     display: inline;
     margin-left: 0;
     margin-right: 30px;
   }
-  a{
+
+  .meta a{
     text-decoration: none;
     letter-spacing: 1px;
     color: white;
   }
+  nav li
+  {
+    margin-bottom: 0;
+    font-size: 15px;
+    margin-left: 0;
+  }
+
+  .cde
+    {
+      font-size:35px;
+      color: white;
+      margin-bottom: 0;
+      font-family: 'Montserrat', sans-serif;
+      text-decoration: none;
+    }
+    h2
+    {
+      text-align:center;
+      font-size: 35px;
+
+    }
+    h3
+    {
+      color: black;
+      font-size: 20px;
+      text-align: center;
+      padding-right: 20px;
+      text-decoration: none;
+      font-family:'Montserrat', sans-serif;
+    }
+    h4{
+      font-size: 25px;
+      color: white;
+    }
+.meta1
+{
+  margin-right: 10px;
+}
+.foottext
+{
+  background-color: black;
+  height: 20%;
+  }
+  .foot1 ul
+  {
+padding-top: 10px;
+text-align: center;
+    font-style: italic;
+    color: white;
+
+}
+.texts{
+  background-color:black ;
+  height: 20%;
+}
+.foot1 ul li{
+  text-decoration: none;
+  display: inline;
+  color: white;
+
+}
+.foot1 li a{
+  color: white;
+}

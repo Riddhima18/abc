@@ -1,0 +1,21 @@
+.container_12
+{
+  background: lightpink;
+}
+
+nav li
+{
+  display: inline;
+}
+aside{
+  background: lightblue;
+}
+.primary{
+  background: lightgrey;
+}
+header{
+  background: green;
+}
+.main{
+  margin: 30px 0;
+}
