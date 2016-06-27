@@ -32,27 +32,32 @@
       font-size:35px;
       color: white;
       margin-bottom: 0;
-      font-family: 'Montserrat', sans-serif;
+      font-family: 'open sans';
       text-decoration: none;
     }
     h2
     {
       text-align:center;
       font-size: 35px;
-      font-family:'Montserrat', sans-serif;
+      font-family:'open sans';
     }
     h3
     {
       color: black;
       font-size: 20px;
       text-align: center;
-      padding-right: 20px;
+      padding-right: 40px;
       text-decoration: none;
-      font-family:'Montserrat', sans-serif;
+      font-family:'open sans';
     }
     h4{
       font-size: 25px;
       color: white;
+    }
+    p{
+      color: black;
+      font-family: 'open sans';
+    
     }
 
 .foottext

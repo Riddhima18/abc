@@ -56,18 +56,19 @@ nav li
   font-size:35px;
   color: white;
   margin-bottom: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'open sans';
+  text-decoration: none;
 }
 
 h2
 {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'open sans';
   padding-top: 40px;
   }
   h3
   {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'open sans';
   }
 
 .wrap1
@@ -79,12 +80,12 @@ h2
 {
   text-decoration: none;
   text-align: left;
-  
+
   color: black;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'open sans';
 }
 p{
-font-family: 'Montserrat', sans-serif;
+font-family: ''open sans'';
 }
 
 .foottext
