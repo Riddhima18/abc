@@ -1,4 +1,9 @@
-
+h5 {
+  font-family: 'open sans';
+}
+.meta1 {
+  text-align: center;
+}
 .wrap
 {
   overflow: hidden;
@@ -57,7 +62,7 @@
     p{
       color: black;
       font-family: 'open sans';
-    
+
     }
 
 .foottext
@@ -69,7 +74,7 @@
   {
 padding-top: 10px;
 text-align: center;
-    font-style: italic;
+text-decoration: none;
     color: white;
 
 }
@@ -84,5 +89,6 @@ text-align: center;
 
 }
 .foot1 li a{
+  text-decoration: none;
   color: white;
 }
